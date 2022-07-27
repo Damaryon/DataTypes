@@ -1,0 +1,11 @@
+integer x
+integer y
+integer z
+x = 5
+Put x to output
+y = x
+Put y to output
+z = x +2
+Put z to output
+x = 3
+Put x to output
